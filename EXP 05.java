@@ -83,25 +83,3 @@ System.out.println("Invalid choice");
 while(ch != 4);
 }
 }
-
-OUTPUT:
-
-Implementation of Stack using Array
-1.Push 2.Pop 3.Display 4.Exit
-Enter your choice:
-1
-Enter the element
-10
-1.Push 2.Pop 3.Display 4.Exit
-Enter your choice:
-1
-Enter the element
-25
-1.Push 2.Pop 3.Display 4.Exit
-Enter your choice:
-3
-Elements are: 10<-- 25<--
-1.Push 2.Pop 3.Display 4.Exit
-Enter your choice:
-2
-Popped element:25
