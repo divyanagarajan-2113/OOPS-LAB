@@ -49,12 +49,3 @@ c.x = x1;
 c.printArea();
 }
 }
-
-OUTPUT:
-
-Enter values:
-7
-8
-Area of Rectangle is56.0
-Area of Triangle is28.0
-Area of Circle is154.0
