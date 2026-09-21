@@ -37,18 +37,3 @@ System.out.println("parsed and autoboxed Boolean:" + parsedBoolean);
 }
 }
 
-OUTPUT:
-
-Autoboxed Integer:100
-Autoboxed Float:25.75
-Autoboxed Character :A
-Autoboxed Boolean:true
-Unboxed int:100
-Unboxed float:25.75
-Unboxed char:A
-Unboxed boolean:true
-parsed and autoboxed Integer:300
-parsed and autoboxed Float:75.25
-parsed and autoboxed Character:C
-parsed and autoboxed Boolean:true
-
